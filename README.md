@@ -1,4 +1,4 @@
-## Portfolio Python Projects
+## Python - Portfolio Projects
 
 ### 1 | Flight Data Analysis
 **Code:** [Flight_Data_Analysis](project_folder/Flight_Data_Analysis.py)
